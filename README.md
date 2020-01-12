@@ -27,6 +27,7 @@ TF卡 x1 （可选） <br>
 
 关于文件的重要解释
 ----
+显示屏控制代码适用8051单片机 在files/screen <br>
 电路原理图在files里 展示为pdf文件 <br> 
 原理图通过lceda绘制 .json文件是lceda源码 <br> 
 **提供altiumdesigner文件 但不保证完整性与正确性** <br>
@@ -61,6 +62,7 @@ third-party GREE remote x1 (optional) **this is used to takeout its screen since
 
 Important explainations of the files
 ----
+the code of controlling the screen works on 8051 mcu ,it's in files/screen <br>
 the circuit diagrams are shown as .pdf files in the\files folder <br>
 diagrams are drew using LCEDA **also known as easyeda worldwide** <br>
 the .json files are LCEDA source codes which allows import and reedit <br>
