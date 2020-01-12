@@ -1,7 +1,7 @@
 # 普通的播放器   Music-Player in a remote's case
 这是一个在格力空调遥控器外壳里的播放器
 ----
-This is a music player in a aircon's case
+This is a music player in a aircon remote's case
 ----
 Engish vision in part 2
 ----
